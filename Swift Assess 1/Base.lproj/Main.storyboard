@@ -30,6 +30,9 @@
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="E5V-rg-xuo">
                                 <state key="normal" title="Counting Button"/>
+                                <connections>
+                                    <action selector="buttonTap:" destination="BYZ-38-t0r" eventType="touchUpInside" id="MoY-11-qBJ"/>
+                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -43,7 +46,7 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="myLabel2" destination="ddc-Gs-5Hi" id="24l-4C-qqA"/>
+                        <outlet property="myLabel2" destination="ddc-Gs-5Hi" id="M6z-i9-78N"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>

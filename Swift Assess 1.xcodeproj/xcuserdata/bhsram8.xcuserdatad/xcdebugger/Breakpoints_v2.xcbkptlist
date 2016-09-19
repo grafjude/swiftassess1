@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Swift Assess 1/ViewController.swift"
+            timestampString = "495990250.699722"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift_Assess_1.ViewController.__deallocating_deinit"
+                  moduleName = "Swift Assess 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhsram8/Desktop/Programming%203%20Projects/Projects/Assessments/Swift%20Assess%201/Swift%20Assess%201/Swift%20Assess%201/ViewController.swift"
+                  timestampString = "495994968.461156"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift_Assess_1.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Swift_Assess_1.ViewController"
+                  moduleName = "Swift Assess 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhsram8/Desktop/Programming%203%20Projects/Projects/Assessments/Swift%20Assess%201/Swift%20Assess%201/Swift%20Assess%201/ViewController.swift"
+                  timestampString = "495994968.463075"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift_Assess_1.ViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Swift_Assess_1.ViewController"
+                  moduleName = "Swift Assess 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhsram8/Desktop/Programming%203%20Projects/Projects/Assessments/Swift%20Assess%201/Swift%20Assess%201/Swift%20Assess%201/ViewController.swift"
+                  timestampString = "495994968.46477"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift_Assess_1.ViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Swift_Assess_1.ViewController&gt;"
+                  moduleName = "Swift Assess 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhsram8/Desktop/Programming%203%20Projects/Projects/Assessments/Swift%20Assess%201/Swift%20Assess%201/Swift%20Assess%201/ViewController.swift"
+                  timestampString = "495994968.466479"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift_Assess_1.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Swift_Assess_1.ViewController&gt;"
+                  moduleName = "Swift Assess 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhsram8/Desktop/Programming%203%20Projects/Projects/Assessments/Swift%20Assess%201/Swift%20Assess%201/Swift%20Assess%201/ViewController.swift"
+                  timestampString = "495994968.467994"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Swift Assess 1/ViewController.swift"
+            timestampString = "495994996.734237"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "buttonTap(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
